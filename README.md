@@ -9,3 +9,9 @@ E-commerce Application Fully Functional:
 http://pregcomm.rf.gd/shop
 
 
+PregMed Video:
+
+PregMed Exercise:
+
+
+
