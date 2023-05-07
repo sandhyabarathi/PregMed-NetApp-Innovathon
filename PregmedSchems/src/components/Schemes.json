@@ -1,0 +1,124 @@
+[
+      {
+        "name": "Pradhan Mantri Matru Vandana Yojana",
+        "description": "A maternity benefit programme offered by the Government of India.",
+        "eligibility": "Pregnant women and lactating mothers",
+        "benefits": "Financial assistance of ₹5,000 in three installments"
+      },
+      {
+        "name": "Janani Suraksha Yojana",
+        "description": "A safe motherhood intervention under the National Health Mission (NHM).",
+        "eligibility": "Poor pregnant women and women who have recently given birth",
+        "benefits": "Cash assistance for hospital delivery and postnatal care"
+      },
+      {
+        "name": "Indira Gandhi Matritva Sahyog Yojana",
+        "description": "A maternity benefit programme implemented by the Ministry of Women and Child Development.",
+        "eligibility": "Pregnant women and lactating mothers",
+        "benefits": "Cash incentives for institutional delivery, early registration of pregnancy, and more"
+      },
+      {
+        "name": "National Food Security Act",
+        "description": "A law enacted by the Government of India to provide subsidized food grains to the poorest households.",
+        "eligibility": "Priority households identified by the state government",
+        "benefits": "Rice, wheat, and coarse grains at highly subsidized rates"
+      },
+      {
+        "name": "Atal Pension Yojana",
+        "description": "A government-backed pension scheme for unorganized sector workers.",
+        "eligibility": "Indian citizens between 18 and 40 years of age",
+        "benefits": "Pension of ₹1,000 to ₹5,000 per month after retirement"
+      },
+      {
+        "name": "Ayushman Bharat",
+        "description": "A health insurance scheme for economically vulnerable families in India.",
+        "eligibility": "Families identified as deprived and vulnerable based on the Socio-Economic Caste Census (SECC) 2011",
+        "benefits": "Coverage of up to ₹5 lakh per family per year for secondary and tertiary hospitalization care"
+      },
+      {  
+        "name": "Pradhan Mantri Jan Dhan Yojana",
+        "description": "A financial inclusion scheme to provide banking services to every household in India.",
+        "eligibility": "All citizens of India",
+        "benefits": "Savings account, RuPay debit card, overdraft facility, and accident insurance"
+      },
+      {
+        "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+        "description": "A skill training and placement programme for rural youth.",
+        "eligibility": "Rural youth between 15 and 35 years of age from BPL families",
+        "benefits": "Placement-linked skill training and post-placement support"
+      },
+      {
+        "name": "Digital India",
+        "description": "A flagship programme of the Government of India to transform India into a digitally empowered society and knowledge economy.",
+        "eligibility": "All citizens of India",
+        "benefits": "Access to digital infrastructure and services, improved digital literacy and skills, and job opportunities in the digital sector"
+      },
+
+          {
+            "name": "Sukanya Samriddhi Yojana",
+            "description": "A savings scheme targeted towards the parents of girl children.",
+            "eligibility": "Parents or guardians of girl children",
+            "benefits": "High interest rate and tax benefits"
+          },
+          {
+            "name": "Balika Samridhi Yojana",
+            "description": "A scheme aimed at providing financial security to the girl child.",
+            "eligibility": "Families living below the poverty line with girl children",
+            "benefits": "Financial assistance for education and marriage"
+          },
+          {
+            "name": "Rajiv Gandhi Scheme for Empowerment of Adolescent Girls (RGSEAG) Sabla",
+            "description": "A programme for the holistic development of adolescent girls.",
+            "eligibility": "Adolescent girls between 11 and 18 years of age",
+            "benefits": "Nutrition, health education, and life skills training"
+          },
+          {
+            "name": "National Girl Child Day",
+            "description": "A day celebrated in India to raise awareness about the importance of girls' education and welfare.",
+            "eligibility": "N/A",
+            "benefits": "N/A"
+          },
+          {
+            "name": "Beti Bachao, Beti Padhao",
+            "description": "A social campaign aimed at promoting girls' education and gender equality.",
+            "eligibility": "N/A",
+            "benefits": "Awareness and advocacy"
+          },
+          {
+            "name": "Ujjawala Scheme",
+            "description": "A programme for the prevention of trafficking and rescue, rehabilitation and reintegration of victims of trafficking for commercial sexual exploitation.",
+            "eligibility": "Victims of human trafficking for commercial sexual exploitation and their dependents.",
+            "benefits": "Rescue, rehabilitation and reintegration support."
+          },
+          {
+            "name": "Swadhar Greh",
+            "description": "Aims to provide shelter, food, clothing and care to the marginalized women/girls who are in need.",
+            "eligibility": "Single women and women victims of domestic violence, family tension or discord, or natural disaster who have no social and economic support",
+            "benefits": "Shelter, food, clothing and care support"
+          },
+          {
+            "name": "Mahila E-Haat",
+            "description": "An online marketing platform for women entrepreneurs, where participants can display their products.",
+            "eligibility": "Women entrepreneurs",
+            "benefits": "Access to a wider market"
+          },
+          {
+            "name": "Working Women Hostel Scheme",
+            "description": "Aims to promote availability of safe and affordable hostel accommodation for working women.",
+            "eligibility": "Working women",
+            "benefits": "Safe and affordable hostel accommodation"
+          },
+          {
+            "name": "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)",
+            "description": "A scheme to provide free antenatal care to pregnant women.",
+            "eligibility": "Pregnant women",
+            "benefits": "Free antenatal care"
+          },
+          {
+            "name": "One Stop Centre (Sakhi) Scheme",
+            "description": "Aims to provide integrated support and assistance to women affected by violence.",
+            "eligibility": "Women affected by violence",
+            "benefits": "Integrated support and assistance"
+          }
+  
+  ]
