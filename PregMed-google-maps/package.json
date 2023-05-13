@@ -1,5 +1,5 @@
 {
-  "name": "traveladvisor-yt",
+  "name": "hospital-pregmed",
   "private": true,
   "scripts": {
     "dev": "next dev",
